@@ -1,5 +1,6 @@
 ---
 name: mobile-store-compliance
+license: MIT
 description: Make a mobile app pass review on the Apple App Store, Google Play and Huawei AppGallery — from the first line of code to the submit button. Use when building, preparing, auditing or submitting an iOS, Android, Flutter, React Native, Expo or Capacitor app; when the user mentions App Store Connect, Play Console, AppGallery Connect, HMS/GMS, Data safety, privacy labels, privacy manifest, account deletion, review notes, store listing, screenshots, content rating, 12 testers, target API, or a rejection / "changes needed" / "Invalid parameter" message; or when asking which pages, screens or files an app must have before publishing.
 ---
 

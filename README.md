@@ -62,6 +62,10 @@ cd .claude/skills/mobile-store-compliance/scripts && python3 -m unittest test_st
 
 Store policies change often. Each reference has a "last verified" date and links to the official source; check it before a decision that depends on a date or number. Templates are not legal advice.
 
+## License
+
+[MIT](LICENSE)
+
 ---
 
 ## بالعربي
